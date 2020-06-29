@@ -1,3 +1,11 @@
 header {
 background: lightblue;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
